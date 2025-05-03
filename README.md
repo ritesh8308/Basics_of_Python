@@ -1,2 +1,2 @@
 # basics
-python basic
+python basic by ritesh mane
